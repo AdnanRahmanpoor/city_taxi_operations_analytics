@@ -1,0 +1,13 @@
+zone_id,zone_name,zone_type,base_surge,created_at
+1,furt Downtown,downtown,1.25,2025-01-30 15:13:09
+2,mouth Downtown,downtown,1.48,2024-05-23 01:35:18
+3,bury Downtown,downtown,1.39,2024-07-26 22:26:35
+4,berg Airport,airport,1.54,2023-10-24 01:56:49
+5,furt Airport,airport,1.36,2024-05-23 12:24:59
+6,burgh Airport,airport,1.36,2025-07-17 10:48:21
+7,shire Residential,residential,0.82,2024-03-02 11:24:19
+8,land Residential,residential,1.15,2024-07-30 09:57:38
+9,chester Residential,residential,1.04,2025-03-17 03:48:22
+10,burgh Commercial,commercial,1.28,2023-11-13 18:51:02
+11,port Commercial,commercial,1.01,2024-09-27 03:36:55
+12,borough Commercial,commercial,1.39,2024-09-05 04:02:31
